@@ -1,8 +1,0 @@
-streamlit
-pandas
-matplotlib
-Pillow
-sqlite3
-huggingface_hub
-langchain
-openai
