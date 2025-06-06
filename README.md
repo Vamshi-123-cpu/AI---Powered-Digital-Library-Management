@@ -1,1 +1,1 @@
-# AI---Powered-Digital-Library-Management
+# AI-Powered-Digital-Library-Management-System
