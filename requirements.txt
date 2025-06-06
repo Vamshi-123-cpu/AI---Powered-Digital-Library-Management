@@ -1,5 +1,8 @@
 streamlit
 pandas
 matplotlib
-pillow
+Pillow
+sqlite3
 huggingface_hub
+langchain
+openai
